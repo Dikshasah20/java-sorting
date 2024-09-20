@@ -1,0 +1,5 @@
+-> basic sorting Algorithm:
+ bubble sorting-> acsending order              O(n^2)
+ selection sorting -> pick the smllest, put it at the beginning              O(n^2)
+ insertion sorting                          O(n^2)
+ counting sorting
