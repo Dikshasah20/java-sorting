@@ -1,6 +1,6 @@
 public class insertionS3 {
     public static void insertionsort(int arr[]){
-        for(int i=0 ; i< arr.length; i++){
+        for(int i=1 ; i< arr.length; i++){
             int curr = arr[i];
             int prev = i-1;
             // findout the correct position to insert
