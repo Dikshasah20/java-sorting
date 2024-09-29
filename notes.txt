@@ -3,3 +3,8 @@
  selection sorting -> pick the smllest, put it at the beginning              O(n^2)
  insertion sorting                          O(n^2)
  counting sorting
+
+-> String:
+  (Two way to implement)
+  String str = "abcd";
+  String str2 = new String("xyz");
