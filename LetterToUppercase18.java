@@ -23,3 +23,4 @@ public class LetterToUppercase18 {
         System.out.println(toUpperCase(str));
     }
 }
+
