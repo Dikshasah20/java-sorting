@@ -21,4 +21,3 @@ public class StringComp19 {
         System.out.println(compress(str));
     }
 }
-
