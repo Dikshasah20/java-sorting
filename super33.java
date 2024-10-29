@@ -18,3 +18,4 @@ class  Horse extends Animal{
         System.out.println("Horse constructor is called");
     }
 }
+
