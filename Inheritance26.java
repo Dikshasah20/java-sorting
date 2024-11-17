@@ -24,3 +24,4 @@ class Fish extends Animal{// extends = khichna
         System.out.println("swims in water");
     }
 }
+
