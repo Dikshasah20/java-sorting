@@ -25,3 +25,4 @@ class Fish extends Animal{// extends = khichna
     }
 }
 
+
