@@ -43,3 +43,5 @@ public class spiral6 {
         printSpiral(matrix);
     }
 }
+
+
