@@ -50,3 +50,5 @@ public class spiral6 {
 
 
 
+
+
