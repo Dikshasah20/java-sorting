@@ -30,3 +30,5 @@ class student{
         percentage = (phy + chem + math)/3;
     }
 }
+
+
