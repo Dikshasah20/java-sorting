@@ -13,3 +13,8 @@ public class StrFunSUBstr15 {
         System.out.println(substring(str, 0, 5));// Hello
     }
 }
+
+
+
+
+
