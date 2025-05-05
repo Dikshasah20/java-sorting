@@ -2,8 +2,7 @@ wshh
 ghh
 njh
 iuugh
-gfif
-ccc
+g
 njjj
 jjjj
 fdd
