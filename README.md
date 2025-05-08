@@ -1,11 +1,4 @@
 wshh
 ghh
 njh
-iuugh
-g
-njjj
-jjjj
-fdd
-fhfnutuyuy
-fufh
 uuut
