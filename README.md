@@ -1,3 +1,1 @@
 wshh
-gjk
-s
